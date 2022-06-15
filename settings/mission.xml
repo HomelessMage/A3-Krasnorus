@@ -1,0 +1,88 @@
+	<Package name="Красный Рассвет">
+		<Container name="Mission load texts">
+			<Key ID="STR_MISSION_AUTHOR">
+				<Original>Ролевое сообщество «Звезда» | HomelessMage</Original>
+				<English>Ролевое сообщество «Звезда» | HomelessMage</English>
+				<Czech>Ролевое сообщество «Звезда» | HomelessMage</Czech>
+				<French>Ролевое сообщество «Звезда» | HomelessMage</French>
+				<Spanish>Ролевое сообщество «Звезда» | HomelessMage</Spanish>
+				<Italian>Ролевое сообщество «Звезда» | HomelessMage</Italian>
+				<Polish>Ролевое сообщество «Звезда» | HomelessMage</Polish>
+				<Portuguese>Ролевое сообщество «Звезда» | HomelessMage</Portuguese>
+				<Russian>Ролевое сообщество «Звезда» | HomelessMage</Russian>
+				<German>Ролевое сообщество «Звезда» | HomelessMage</German>
+			</Key>
+			<Key ID="STR_MISSION_ONLOADNAME">
+				<Original>Красный Рассвет</Original>
+				<English>Красный Рассвет</English>
+				<Czech>Красный Рассвет</Czech>
+				<French>Красный Рассвет</French>
+				<Spanish>Красный Рассвет</Spanish>
+				<Italian>Красный Рассвет</Italian>
+				<Polish>Красный Рассвет</Polish>
+				<Portuguese>Красный Рассвет</Portuguese>
+				<Russian>Красный Рассвет</Russian>
+				<German>Красный Рассвет</German>
+			</Key>
+			<Key ID="STR_MISSION_ONLOADMISSION">
+				<Original>Discord: discord.gg/6Kk74CR</Original>
+				<English>Discord: discord.gg/6Kk74CR</English>
+				<Czech>Discord: discord.gg/6Kk74CR</Czech>
+				<French>Discord: discord.gg/6Kk74CR</French>
+				<Spanish>Discord: discord.gg/6Kk74CR</Spanish>
+				<Italian>Discord: discord.gg/6Kk74CR</Italian>
+				<Polish>Discord: discord.gg/6Kk74CR</Polish>
+				<Portuguese>Discord: discord.gg/6Kk74CR</Portuguese>
+				<Russian>Discord: discord.gg/6Kk74CR</Russian>
+				<German>Discord: discord.gg/6Kk74CR</German>
+			</Key>
+			<Key ID="STR_MISSION_OVERVIEWTEXT">
+				<Original>This is an overview text when unlocked mission is selected in mission navigation menu.</Original>
+				<English>This is an overview text when unlocked mission is selected in mission navigation menu.</English>
+				<Czech>This is an overview text when unlocked mission is selected in mission navigation menu.</Czech>
+				<French>This is an overview text when unlocked mission is selected in mission navigation menu.</French>
+				<Spanish>This is an overview text when unlocked mission is selected in mission navigation menu.</Spanish>
+				<Italian>This is an overview text when unlocked mission is selected in mission navigation menu.</Italian>
+				<Polish>This is an overview text when unlocked mission is selected in mission navigation menu.</Polish>
+				<Portuguese>This is an overview text when unlocked mission is selected in mission navigation menu.</Portuguese>
+				<Russian>Текст отображаемый, при выборе незаблокированной миссии в меню выбора сценариев.</Russian>
+				<German>This is an overview text when unlocked mission is selected in mission navigation menu.</German>
+			</Key>
+			<Key ID="STR_MISSION_OVERVIEWTEXT_LOCKED">
+				<Original>This is an overview text when locked mission is selected in mission navigation menu.</Original>
+				<English>This is an overview text when locked mission is selected in mission navigation menu.</English>
+				<Czech>This is an overview text when locked mission is selected in mission navigation menu.</Czech>
+				<French>This is an overview text when locked mission is selected in mission navigation menu.</French>
+				<Spanish>This is an overview text when locked mission is selected in mission navigation menu.</Spanish>
+				<Italian>This is an overview text when locked mission is selected in mission navigation menu.</Italian>
+				<Polish>This is an overview text when locked mission is selected in mission navigation menu.</Polish>
+				<Portuguese>This is an overview text when locked mission is selected in mission navigation menu.</Portuguese>
+				<Russian>Текст отображаемый, при выборе заблокированной миссии в меню выбора сценариев.</Russian>
+				<German>This is an overview text when locked mission is selected in mission navigation menu.</German>
+			</Key>
+			<Key ID="STR_MISSION_LOADSCREEN">
+				<Original>settings\loadscreen.paa</Original>
+				<English>settings\loadscreen.paa</English>
+				<Czech>settings\loadscreen.paa</Czech>
+				<French>settings\loadscreen.paa</French>
+				<Spanish>settings\loadscreen.paa</Spanish>
+				<Italian>settings\loadscreen.paa</Italian>
+				<Polish>settings\loadscreen.paa</Polish>
+				<Portuguese>settings\loadscreen.paa</Portuguese>
+				<Russian>settings\loadscreen.paa</Russian>
+				<German>settings\loadscreen.paa</German>
+			</Key>
+			<Key ID="STR_MISSION_OVERVIEWPICTURE">
+				<Original>settings\overview.paa</Original>
+				<English>settings\overview.paa</English>
+				<Czech>settings\overview.paa</Czech>
+				<French>settings\overview.paa</French>
+				<Spanish>settings\overview.paa</Spanish>
+				<Italian>settings\overview.paa</Italian>
+				<Polish>settings\overview.paa</Polish>
+				<Portuguese>settings\overview.paa</Portuguese>
+				<Russian>settings\overview.paa</Russian>
+				<German>settings\overview.paa</German>
+			</Key>
+		</Container>
+	</Package>
